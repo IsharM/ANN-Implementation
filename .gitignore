@@ -21,6 +21,7 @@ sdist/
 var/
 wheels/
 artifacts/
+logs_dir/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
